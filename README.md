@@ -19,25 +19,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=KartikSharma1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSharma1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html,css,ruby,c,cmake)
 
-
 -------------------------------------------------------------------
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=k-arindam&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
--------------------------------------------------------------------
-
-#### ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=k-arindam/SwiftNP,k-arindam/SwiftUICamera,k-arindam/nukiveedge,k-arindam/AwesomeNavigation,k-arindam/multipeer_connectivity&type=Timeline&theme=dark)](https://www.star-history.com/#k-arindam/SwiftNP&k-arindam/SwiftUICamera&k-arindam/nukiveedge&k-arindam/AwesomeNavigation&k-arindam/multipeer_connectivity&Timeline)
-
-
-![](https://visitcount.itsvg.in/api?id=k-arindam&icon=6&color=0)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-k-arindam/k-arindam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
